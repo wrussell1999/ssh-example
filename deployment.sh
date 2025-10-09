@@ -1,2 +1,2 @@
 echo "Deploying...."
-echo "Successful"
+echo "Successful!"
