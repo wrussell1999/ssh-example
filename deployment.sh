@@ -1,3 +1,3 @@
 echo "Deploying...."
-sleep 5
-echo "Successful!"
+sleep 3
+echo "Successful!!!"
